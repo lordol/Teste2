@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #2e6df5; /* Medium Purple */
+    background-color: #8eb1ff; /* Medium Purple */
     color: #ffffff;
     padding: 10px 0;
     text-align: center;
@@ -47,7 +47,7 @@ main {
 }
 
 .secao-quiz {
-    background-color: #215fe2; /* Medium Orchid */
+    background-color: #8eb1ff; /* Medium Orchid */
     border-radius: 8px;
     padding: 20px;
     margin: 20px auto;
@@ -57,7 +57,7 @@ main {
     padding-bottom: 10px;
 }
 footer {
-    background-color: #2e6df5; /* Medium Purple */
+    background-color: #8eb1ff; /* Medium Purple */
     color: #000000;
     text-align: center;
     padding: 10px 0;
@@ -76,7 +76,7 @@ footer {
 
 .lista-topicos li a {
     display: block;
-    background-color: #4976d8;
+    background-color: #4e81f1;
     color: #e9d6f7;
     text-decoration: none;
     padding: 10px;
