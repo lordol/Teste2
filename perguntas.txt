@@ -1,0 +1,14 @@
+[
+    {
+        "pergunta": "Quem é o cartunista brasileiro responsável pela criação da 'Turma da Mônica'?",
+        "respostas": ["Maurício de Sousa", "Ziraldo Alves Pinto", "Monteiro Loato", "Laerte Coutinho"],
+        "correta": "Maurício de Sousa",
+        "tema": "arte"
+    },
+    {
+        "pergunta": "Quem é o cartunista brasileiro responsável pela criação da 'Turma da Mônica'?",
+        "respostas": ["Maurício de Sousa", "Ziraldo Alves Pinto", "Monteiro Loato", "Laerte Coutinho"],
+        "correta": "Maurício de Sousa",
+        "tema": "microsoft"
+    },
+]
